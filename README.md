@@ -51,6 +51,6 @@ Bug reports, suggestions, or improvements are always welcome and highly apprecia
 This project is licensed under the MIT License. See the LICENSE file for full details.
 
 📞 Contact
-Project Owner: [Your Name / Your GitHub Profile]
+Project Owner: [https://github.com/Vr0cks]
 
-Email: [Your Email Address]
+Email: [ahmetcanli1943@gmail.com]
